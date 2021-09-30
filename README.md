@@ -7,3 +7,5 @@
 + add, commit 저장하기
 + 소스 컨트롤에서 commit 저장하기(add + commit)
 + index.html 추가
+
+[호스팅주소](https://hwangcb.github.io/gti-test/)
